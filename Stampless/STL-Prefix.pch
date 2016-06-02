@@ -1,0 +1,16 @@
+//
+//  STL-Prefix.pch
+//  Stampless
+//
+//  Created by Onur Şahindur on 02/06/16.
+//  Copyright © 2016 Stampless. All rights reserved.
+//
+
+#ifndef STL_Prefix_pch
+#define STL_Prefix_pch
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+
+#endif /* STL_Prefix_pch */
